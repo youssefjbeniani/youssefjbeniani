@@ -85,7 +85,7 @@ I'm a final-year Computer Engineering student from Tunisia with an interest in b
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 💧 DrinkSafe — IoT Water Quality Monitoring
 
@@ -98,7 +98,7 @@ A real-time IoT water quality monitoring dashboard combining connected hardware 
 
 **Technologies:** IoT · Web Development · Water Quality Monitoring
 
-🔗 [View Project Repository](https://github.com/YOUR-USERNAME/DRINKSAFE-REPOSITORY)
+🔗 [View Project Repository](https://github.com/youssefjbeniani/DrinkSafe)
 
 ---
 
@@ -113,7 +113,9 @@ Formal verification of the TCP protocol, including SYN Flood and RST Injection a
 
 **Technologies:** UPPAAL · TCP/IP · Timed Automata · Network Security
 
-🔗 [View Project Repository](https://github.com/YOUR-USERNAME/TCP-Formal-Verification-UPPAAL)
+🔗 [View Project Repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
+
+
 ---
 
 ## 🎯 Areas of Interest
