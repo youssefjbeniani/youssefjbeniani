@@ -148,7 +148,7 @@ I'm always interested in learning, exchanging ideas, and exploring opportunities
   <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">
     <img src="https://img.shields.io/badge/LinkedIn-Youssef_Jbeniani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youssefjb eniani0@gmail.com">
+  <a href="mailto:youssefjbeniani0@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
