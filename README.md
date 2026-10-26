@@ -100,6 +100,26 @@ A real-time IoT water quality monitoring dashboard combining connected hardware 
 
 [🔗 Explore my repositories](https://github.com/youssefjbeniani?tab=repositories)
 
+
+🔐 TCP — Formal Verification with UPPAAL
+
+A formal verification project focused on modeling the TCP protocol using UPPAAL timed automata and analyzing security vulnerabilities.
+
+Focus areas:
+
+🔄 TCP protocol modeling and verification
+
+🛡️ SYN Flood attack analysis
+
+🔓 TCP RST Injection attack analysis
+
+⏱️ Timed automata and formal verification
+
+Technologies: UPPAAL · TCP/IP · Timed Automata · Formal Methods · Network Security
+
+📄 Project report
+📂 UPPAAL model
+🔗 View repository
 ---
 
 ## 🎯 Areas of Interest
