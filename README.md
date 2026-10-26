@@ -1,13 +1,13 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Youssef
+<h1>👋 Hey, I'm Youssef</h1>
 
-### Aspiring Software & Hardware Engineer 🇹🇳
+<h3>Aspiring Software &amp; Hardware Engineer 🇹🇳</h3>
 
-**Final-Year Computer Engineering Student**
+<strong>Final-Year Computer Engineering Student</strong>
 
-*Exploring the intersection of software, hardware, and intelligent systems.*
+<p><em>Exploring the intersection of software, hardware, and intelligent systems.</em></p>
 
 <br/>
 
@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:youssefjbeniani0@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youssefjbeniani0%40gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -64,6 +64,7 @@ I'm a final-year Computer Engineering student from Tunisia with an interest in b
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 ### 🔌 Embedded Systems & Networking
@@ -81,6 +82,7 @@ I'm a final-year Computer Engineering student from Tunisia with an interest in b
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/UPPAAL-00599C?style=for-the-badge" alt="UPPAAL"/>
 </p>
 
 ---
@@ -115,12 +117,19 @@ Formal verification of the TCP protocol, including SYN Flood and RST Injection a
 
 🔗 [View Project Repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
 
-
 ---
 
 ### 💊 Pharmacy Management System
 
 A pharmacy management application built with Java, SQLite, and JDBC.
+
+**Focus areas:**
+- 🔐 Pharmacist and manager authentication
+- 💊 Medicine management and inventory tracking
+- 🛒 Sales registration and cancellation
+- 📦 Stock monitoring and replenishment orders
+
+**Technologies:** Java · SQLite · JDBC · DAO/Service Architecture
 
 🔗 [View Project Repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
 
@@ -148,7 +157,7 @@ I'm always interested in learning, exchanging ideas, and exploring opportunities
   <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">
     <img src="https://img.shields.io/badge/LinkedIn-Youssef_Jbeniani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youssefjbeniani0@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youssefjbeniani0%40gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -157,8 +166,8 @@ I'm always interested in learning, exchanging ideas, and exploring opportunities
 
 <div align="center">
 
-### 💡 Learn. Build. Improve.
+<h3>💡 Learn. Build. Improve.</h3>
 
-*Thanks for visiting my profile!*
+<p><em>Thanks for visiting my profile!</em></p>
 
 </div>
