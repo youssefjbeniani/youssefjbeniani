@@ -118,6 +118,14 @@ Formal verification of the TCP protocol, including SYN Flood and RST Injection a
 
 ---
 
+### 💊 Pharmacy Management System
+
+A pharmacy management application built with Java, SQLite, and JDBC.
+
+🔗 [View Project Repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
+
+---
+
 ## 🎯 Areas of Interest
 
 | Area | Focus |
