@@ -1,173 +1,61 @@
+<h1 align="center">Youssef Jbeniani</h1>
 
-<div align="center">
-
-<h1>👋 Hey, I'm Youssef</h1>
-
-<h3>Aspiring Software &amp; Hardware Engineer 🇹🇳</h3>
-
-<strong>Final-Year Computer Engineering Student</strong>
-
-<p><em>Exploring the intersection of software, hardware, and intelligent systems.</em></p>
-
-<br/>
-
-<a href="https://github.com/youssefjbeniani">
-  <img src="https://img.shields.io/badge/GitHub-youssefjbeniani-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youssefjbeniani0%40gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a final-year Computer Engineering student from Tunisia with an interest in building practical solutions across software and hardware.
-
-- 💻 Interested in software engineering and web development.
-- 🔌 Exploring embedded systems, IoT, and hardware-oriented projects.
-- 🌐 Learning networking and computer systems.
-- 🧠 Interested in problem-solving, AI, and cybersecurity.
-- 🚀 Focused on continuously learning and developing my engineering skills.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="center">
+  <strong>Final-year Computer Engineering student · Tunisia</strong><br>
+  Software, embedded systems, and intelligent applications
 </p>
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### 🔌 Embedded Systems & Networking
-
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00ADEF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/UPPAAL-00599C?style=for-the-badge" alt="UPPAAL"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">LinkedIn</a> ·
+  <a href="mailto:youssefjbeniani0@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 💧 DrinkSafe — IoT Water Quality Monitoring
+I’m a final-year Computer Engineering student interested in building practical software and hardware solutions. My work and learning span web development, embedded systems, networking, and formal verification.
 
-A real-time IoT water quality monitoring dashboard combining connected hardware and software to help monitor water quality data.
+- Developing software with C, C++, Python, Java, and JavaScript
+- Exploring connected systems with Arduino and ESP32
+- Learning about networking, cybersecurity, and intelligent systems
+- Interested in collaborative projects and opportunities to grow as an engineer
 
-**Focus areas:**
-- 🌐 Real-time monitoring and data visualization
-- 🔌 IoT and embedded systems
-- 💻 Dashboard and web development
+## Skills
 
-**Technologies:** IoT · Web Development · Water Quality Monitoring
+**Languages:** C, C++, Python, Java, JavaScript, SQL, HTML, CSS  
+**Web:** React, Node.js, Express  
+**Databases:** MySQL, SQLite  
+**Embedded and networking:** Arduino, ESP32, Cisco Packet Tracer  
+**Tools:** Git, GitHub, VS Code, Linux, UPPAAL
 
-🔗 [View Project Repository](https://github.com/youssefjbeniani/DrinkSafe)
+## Selected Projects
 
----
+### DrinkSafe — IoT Water Quality Monitoring
+A water quality monitoring project that brings connected hardware and a web dashboard together to display monitoring data.
 
-### 🔐 TCP — Formal Verification with UPPAAL
+**Focus:** IoT · Embedded systems · Web dashboard
 
-Formal verification of the TCP protocol, including SYN Flood and RST Injection attack analysis.
+[View repository](https://github.com/youssefjbeniani/DrinkSafe)
 
-**Focus areas:**
-- 🌐 TCP protocol modeling
-- 🛡️ Network security
-- ⏱️ Formal verification using UPPAAL
+### TCP Formal Verification with UPPAAL
+A formal modeling and verification project exploring TCP behavior and attack scenarios, including SYN flood and RST injection.
 
-**Technologies:** UPPAAL · TCP/IP · Timed Automata · Network Security
+**Focus:** UPPAAL · Timed automata · TCP/IP · Network security
 
-🔗 [View Project Repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
+[View repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
 
----
+### Pharmacy Management System
+A Java desktop application for pharmacy workflows, including user authentication, medicine inventory, sales, and replenishment orders.
 
-### 💊 Pharmacy Management System
+**Built with:** Java · SQLite · JDBC · DAO/service architecture
 
-A pharmacy management application built with Java, SQLite, and JDBC.
+[View repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
 
-**Focus areas:**
-- 🔐 Pharmacist and manager authentication
-- 💊 Medicine management and inventory tracking
-- 🛒 Sales registration and cancellation
-- 📦 Stock monitoring and replenishment orders
+## Interests
 
-**Technologies:** Java · SQLite · JDBC · DAO/Service Architecture
-
-🔗 [View Project Repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
+Software engineering · Web development · Embedded systems and IoT · Networking · Cybersecurity · AI and machine learning · Problem solving
 
 ---
 
-## 🎯 Areas of Interest
-
-| Area | Focus |
-|---|---|
-| 💻 Software Engineering | Building practical software solutions |
-| 🌐 Web Development | Frontend and backend applications |
-| 🧠 AI / Machine Learning | Exploring intelligent systems |
-| 🔐 Cybersecurity | Security and system protection |
-| 🌐 Networking | Network fundamentals and infrastructure |
-| 🔌 Embedded Systems & IoT | Connecting hardware and software |
-| 🧩 Problem Solving | Logical thinking and programming challenges |
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, exchanging ideas, and exploring opportunities to grow as an engineer.
-
-<p>
-  <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Youssef_Jbeniani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=youssefjbeniani0%40gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<h3>💡 Learn. Build. Improve.</h3>
-
-<p><em>Thanks for visiting my profile!</em></p>
-
-</div>
+<p align="center"><em>Learn. Build. Improve.</em></p>
