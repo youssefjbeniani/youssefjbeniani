@@ -23,32 +23,44 @@ I’m a final-year Computer Engineering student interested in building practical
 
 ## Skills
 
-**Languages:** C, C++, Python, Java, JavaScript, SQL, HTML, CSS  
-**Web:** React, Node.js, Express  
-**Databases:** MySQL, SQLite  
-**Embedded and networking:** Arduino, ESP32, Cisco Packet Tracer  
-**Tools:** Git, GitHub, VS Code, Linux, UPPAAL
+- **Programming** · C, C++, Python, Java, JavaScript, TypeScript, PHP, SQL, PL/SQL
+- **Web development** · HTML, CSS, React, Next.js, Node.js, Express, REST APIs
+- **Databases and deployment** · PostgreSQL, MySQL, SQLite, JDBC, Supabase, Netlify
+- **Embedded systems and IoT** · Arduino, ESP32, microcontrollers, sensors, MQTT, I²C, SPI, UART, ThingSpeak, Wokwi
+- **Hardware and networking** · Computer architecture, digital logic, VHDL, systems on a chip (SoCs), TCP/IP, routing, switching, Cisco Packet Tracer
+- **Tools and methods** · Git, GitHub, VS Code, Linux, Docker, UML, UPPAAL, timed automata, model checking
 
 ## Selected Projects
 
-### DrinkSafe — IoT Water Quality Monitoring
-A water quality monitoring project that brings connected hardware and a web dashboard together to display monitoring data.
+### CHICC — Full-Stack E-commerce
 
-**Focus:** IoT · Embedded systems · Web dashboard
+A fragrance storefront and staff dashboard share a catalog and order workflow. Customers can browse fragrances and place orders. Staff can manage listings, track orders, and assign delivery workers.
+
+**Built with** · Next.js · TypeScript · Supabase · PostgreSQL · Netlify
+
+[View repository](https://github.com/youssefjbeniani/chicc-commerce) · [Live storefront](https://chicc-perfumes.netlify.app/)
+
+### DrinkSafe — IoT Water Quality Monitoring
+
+An ESP32 prototype measures dissolved solids and water temperature. The companion dashboard displays ThingSpeak readings, trends, and alerts, and exports stored measurements as CSV.
+
+**Built with** · ESP32 · C/C++ · ThingSpeak · Wokwi · React · Node.js · Express · PostgreSQL
 
 [View repository](https://github.com/youssefjbeniani/DrinkSafe)
 
 ### TCP Formal Verification with UPPAAL
-A formal modeling and verification project exploring TCP behavior and attack scenarios, including SYN flood and RST injection.
 
-**Focus:** UPPAAL · Timed automata · TCP/IP · Network security
+A timed-automata model of the TCP handshake and connection teardown. It checks deadlock freedom and reachability and simulates SYN flooding and RST injection.
+
+**Built with** · UPPAAL · timed automata · model checking · TCP/IP
 
 [View repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
 
 ### Pharmacy Management System
-A Java desktop application for pharmacy workflows, including user authentication, medicine inventory, sales, and replenishment orders.
 
-**Built with:** Java · SQLite · JDBC · DAO/service architecture
+A Java console application with separate workflows for pharmacists and inventory managers, covering customer records, sales, inventory, stock history, and restocking orders.
+
+**Built with** · Java · SQLite · JDBC · DAO and service layers
 
 [View repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
 
@@ -59,4 +71,3 @@ Software engineering · Web development · Embedded systems and IoT · Networkin
 ---
 
 <p align="center"><em>Learn. Build. Improve.</em></p>
-
