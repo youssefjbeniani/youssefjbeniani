@@ -1,8 +1,8 @@
 <h1 align="center">Youssef Jbeniani</h1>
 
 <p align="center">
-  <strong>Final-year Computer Engineering student · Tunisia</strong><br>
-  Software, embedded systems, and intelligent applications
+  <strong>Final-year Computer Engineering student · Faculty of Sciences of Tunis</strong><br>
+  IoT · Embedded Systems · Full-Stack Development
 </p>
 
 <p align="center">
@@ -10,52 +10,43 @@
   <a href="mailto:youssefjbeniani0@gmail.com">Email</a>
 </p>
 
----
+I build software for connected devices, web applications, and database-backed workflows. My work also includes formal verification of network protocols. I’m pursuing a Licence in Computer Engineering in Tunisia, with expected graduation in June 2027.
 
-## About
+## Projects
 
-I’m a final-year Computer Engineering student interested in building practical software and hardware solutions. My work and learning span web development, embedded systems, networking, and formal verification.
+### [CHICC — Full-stack e-commerce](https://github.com/youssefjbeniani/chicc-commerce)
 
-- Developing software with C, C++, Python, Java, and JavaScript
-- Exploring connected systems with Arduino and ESP32
-- Learning about networking, cybersecurity, and intelligent systems
-- Interested in collaborative projects and opportunities to grow as an engineer
+A fragrance storefront and staff dashboard share a catalog and order workflow. Customers can browse products and submit orders, while staff can manage listings, track orders, and assign delivery workers. [Live storefront](https://chicc-perfumes.netlify.app/)
+
+**Stack** · Next.js, TypeScript, Supabase, PostgreSQL, Netlify
+
+### [DrinkSafe — IoT water quality monitoring](https://github.com/youssefjbeniani/DrinkSafe)
+
+An ESP32 prototype measures dissolved solids and water temperature. The companion web app reads measurements from ThingSpeak, displays trends and alerts, and exports stored readings as CSV.
+
+**Stack** · ESP32, C/C++, ThingSpeak, Wokwi, React, Node.js, Express, PostgreSQL
+
+### [TCP Formal Verification with UPPAAL](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
+
+A timed-automata model of TCP connection setup and teardown. The model checks deadlock freedom and reachability and simulates SYN flooding and RST injection.
+
+**Stack** · UPPAAL, timed automata, model checking, TCP/IP
+
+### [Pharmacy Management System](https://github.com/youssefjbeniani/Pharmacy-Management-System)
+
+A Java console application with separate workflows for pharmacists and inventory managers. It uses JDBC and SQLite to manage sales, customer records, medicines, stock history, and restocking orders.
+
+**Stack** · Java, JDBC, SQLite, object-oriented programming
 
 ## Skills
 
-**Languages:** C, C++, Python, Java, JavaScript, SQL, HTML, CSS  
-**Web:** React, Node.js, Express  
-**Databases:** MySQL, SQLite  
-**Embedded and networking:** Arduino, ESP32, Cisco Packet Tracer  
-**Tools:** Git, GitHub, VS Code, Linux, UPPAAL
+- **Programming** · C, C++, Python, Java, JavaScript, TypeScript, PHP, SQL, PL/SQL
+- **Web development** · HTML, CSS, React, Next.js, Node.js, Express, REST APIs
+- **Databases and deployment** · PostgreSQL, MySQL, SQLite, JDBC, Supabase, Netlify
+- **Embedded systems and IoT** · ESP32, Arduino, microcontrollers, sensors, MQTT, I²C, SPI, UART, ThingSpeak, Wokwi
+- **Hardware and networking** · Computer architecture, digital logic, VHDL, systems on a chip (SoCs), TCP/IP, routing, switching, Cisco Packet Tracer
+- **Verification and development tools** · UPPAAL, timed automata, Git, GitHub, Docker, Linux, VS Code, UML
 
-## Selected Projects
+**Coursework** · Real-time systems, IoT security, cloud computing and virtualization, AI and machine learning, big data, and software testing.
 
-### DrinkSafe — IoT Water Quality Monitoring
-A water quality monitoring project that brings connected hardware and a web dashboard together to display monitoring data.
-
-**Focus:** IoT · Embedded systems · Web dashboard
-
-[View repository](https://github.com/youssefjbeniani/DrinkSafe)
-
-### TCP Formal Verification with UPPAAL
-A formal modeling and verification project exploring TCP behavior and attack scenarios, including SYN flood and RST injection.
-
-**Focus:** UPPAAL · Timed automata · TCP/IP · Network security
-
-[View repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
-
-### Pharmacy Management System
-A Java desktop application for pharmacy workflows, including user authentication, medicine inventory, sales, and replenishment orders.
-
-**Built with:** Java · SQLite · JDBC · DAO/service architecture
-
-[View repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
-
-## Interests
-
-Software engineering · Web development · Embedded systems and IoT · Networking · Cybersecurity · AI and machine learning · Problem solving
-
----
-
-<p align="center"><em>Learn. Build. Improve.</em></p>
+**Spoken languages** · Arabic (native), English (C1), French (B2)
