@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://youssef-jbeniani-portfolio.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">LinkedIn</a> ·
   <a href="mailto:youssefjbeniani0@gmail.com">Email</a>
 </p>
