@@ -7,9 +7,9 @@
 I build connected devices and full-stack applications, from firmware and sensor data to the dashboards people use.
 
 <p>
-  <a href="https://youssef-jbeniani-portfolio.vercel.app/"><img src="./assets/link-portfolio.png" width="98" height="44" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/"><img src="./assets/link-linkedin.png" width="96" height="44" alt="LinkedIn"></a>
-  <a href="mailto:youssefjbeniani0@gmail.com"><img src="./assets/link-email.png" width="72" height="44" alt="Email"></a>
+  <a href="https://youssef-jbeniani-portfolio.vercel.app/"><img src="./assets/contact-portfolio.png" width="98" height="44" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/"><img src="./assets/contact-linkedin.png" width="96" height="44" alt="LinkedIn"></a>
+  <a href="mailto:youssefjbeniani0@gmail.com"><img src="./assets/contact-email.png" width="72" height="44" alt="Email"></a>
 </p>
 
 ## Selected projects
