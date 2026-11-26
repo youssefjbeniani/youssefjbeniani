@@ -1,74 +1,47 @@
-<h1 align="center">Youssef Jbeniani</h1>
+# Youssef Jbeniani
 
-<p align="center">
-  <strong>Final-year Computer Engineering student · Tunisia</strong><br>
-  Software, embedded systems, and intelligent applications
-</p>
+**Final-year Computer Engineering student · Embedded Systems and IoT · Tunisia**
 
-<p align="center">
-  <a href="https://youssef-jbeniani-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/youssef-jbeniani-78298933a/">LinkedIn</a> ·
-  <a href="mailto:youssefjbeniani0@gmail.com">Email</a>
-</p>
+I build connected-device prototypes and full-stack applications, from firmware and sensor data to the dashboards people use.
 
----
+[Portfolio](https://youssef-jbeniani-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/youssef-jbeniani-78298933a/) · [Email](mailto:youssefjbeniani0@gmail.com)
+
+## Selected projects
+
+### [DrinkSafe](https://github.com/youssefjbeniani/DrinkSafe) · IoT water quality monitoring
+
+An ESP32 prototype sends dissolved solids and water temperature readings to ThingSpeak. A React dashboard shows live readings, trends, and alerts, with CSV export for stored measurements.
+
+**Stack** · ESP32, C/C++, ThingSpeak, React, Express, PostgreSQL
+
+### [CHICC](https://github.com/youssefjbeniani/chicc-commerce) · E-commerce platform
+
+A multilingual fragrance storefront and a staff dashboard share one backend. Customers can browse the catalog and place orders. Staff can update listings, assign deliveries, and track order status.
+
+**Stack** · Next.js, TypeScript, Supabase, PostgreSQL · [Visit the CHICC storefront](https://chicc-perfumes.netlify.app/)
+
+### [TCP with UPPAAL](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL) · Formal verification
+
+A timed-automata model of TCP connection setup and teardown. It includes reachability and deadlock checks and explores how the protocol behaves under SYN flooding and TCP reset scenarios.
+
+**Stack** · UPPAAL, timed automata, TCP/IP
+
+### [Pharmacy Management System](https://github.com/youssefjbeniani/Pharmacy-Management-System) · Java application
+
+A Java application with separate workflows for pharmacists and managers. It supports medicine records, sales, stock tracking, and restocking orders.
+
+**Stack** · Java, SQLite, JDBC
+
+## Technical skills
+
+- **Programming** · C, C++, Python, Java, JavaScript, TypeScript, PHP, SQL, PL/SQL
+- **Web and data** · HTML, CSS, React, Next.js, Node.js, Express, REST APIs, PostgreSQL, MySQL, SQLite, JDBC, Supabase
+- **Embedded systems and IoT** · Arduino, ESP32, microcontrollers, sensors, MQTT, I²C, SPI, UART, ThingSpeak, Wokwi
+- **Hardware, networking, and verification** · Computer architecture, digital logic, VHDL, systems on a chip, TCP/IP, routing, switching, Cisco Packet Tracer, UPPAAL, timed automata, model checking
+- **Development and deployment** · Git, GitHub, VS Code, Linux, Docker, UML, Netlify
 
 ## About
 
-I’m a final-year Computer Engineering student interested in building practical software and hardware solutions. My work and learning span web development, embedded systems, networking, and formal verification.
+I study Computer Engineering at the Faculty of Sciences of Tunis, specializing in embedded systems and IoT. I’m interested in how firmware, networks, and software work together, and I’m exploring cybersecurity and machine learning.
 
-- Developing software with C, C++, Python, Java, and JavaScript
-- Exploring connected systems with Arduino and ESP32
-- Learning about networking, cybersecurity, and intelligent systems
-- Interested in collaborative projects and opportunities to grow as an engineer
-
-## Skills
-
-- **Programming** · C, C++, Python, Java, JavaScript, TypeScript, PHP, SQL, PL/SQL
-- **Web development** · HTML, CSS, React, Next.js, Node.js, Express, REST APIs
-- **Databases and deployment** · PostgreSQL, MySQL, SQLite, JDBC, Supabase, Netlify
-- **Embedded systems and IoT** · Arduino, ESP32, microcontrollers, sensors, MQTT, I²C, SPI, UART, ThingSpeak, Wokwi
-- **Hardware and networking** · Computer architecture, digital logic, VHDL, systems on a chip (SoCs), TCP/IP, routing, switching, Cisco Packet Tracer
-- **Tools and methods** · Git, GitHub, VS Code, Linux, Docker, UML, UPPAAL, timed automata, model checking
-
-## Selected Projects
-
-### CHICC — Full-Stack E-commerce
-
-A fragrance storefront and staff dashboard share a catalog and order workflow. Customers can browse fragrances and place orders. Staff can manage listings, track orders, and assign delivery workers.
-
-**Built with** · Next.js · TypeScript · Supabase · PostgreSQL · Netlify
-
-[View repository](https://github.com/youssefjbeniani/chicc-commerce) · [Live storefront](https://chicc-perfumes.netlify.app/)
-
-### DrinkSafe — IoT Water Quality Monitoring
-
-An ESP32 prototype measures dissolved solids and water temperature. The companion dashboard displays ThingSpeak readings, trends, and alerts, and exports stored measurements as CSV.
-
-**Built with** · ESP32 · C/C++ · ThingSpeak · Wokwi · React · Node.js · Express · PostgreSQL
-
-[View repository](https://github.com/youssefjbeniani/DrinkSafe)
-
-### TCP Formal Verification with UPPAAL
-
-A timed-automata model of the TCP handshake and connection teardown. It checks deadlock freedom and reachability and simulates SYN flooding and RST injection.
-
-**Built with** · UPPAAL · timed automata · model checking · TCP/IP
-
-[View repository](https://github.com/youssefjbeniani/TCP-Formal-Verification-UPPAAL)
-
-### Pharmacy Management System
-
-A Java console application with separate workflows for pharmacists and inventory managers, covering customer records, sales, inventory, stock history, and restocking orders.
-
-**Built with** · Java · SQLite · JDBC · DAO and service layers
-
-[View repository](https://github.com/youssefjbeniani/Pharmacy-Management-System)
-
-## Interests
-
-Software engineering · Web development · Embedded systems and IoT · Networking · Cybersecurity · AI and machine learning · Problem solving
-
----
-
-<p align="center"><em>Learn. Build. Improve.</em></p>
+*Learn. Build. Improve.*
